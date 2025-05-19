@@ -1,0 +1,11 @@
+Source Code Web Address
+=======================
+https://bitbucket.org/newtechways/minisys-nxt.git
+
+
+
+Clone Command
+=============
+Https
+-----
+git clone https://bitbucket.org/newtechways/minisys-nxt.git
