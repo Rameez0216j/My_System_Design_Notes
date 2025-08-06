@@ -1,5 +1,7 @@
 #include "AirlineManagementSystem.hpp"
 #include <iostream>
+#include <algorithm>
+
 
 AirlineManagementSystem::AirlineManagementSystem() : bookingIdCounter(1) {}
 

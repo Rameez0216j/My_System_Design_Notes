@@ -1,0 +1,4 @@
+Interfaces are named with I as prefix ==> IObserver -> Interface of Observer
+Timestamp 25:00 [see how you can avoid breaking observer design pattern]
+There will sometimes tradeoff between design patterns and that is totally fine
+EventListners in Javascript use observable design patters via abstraction 
